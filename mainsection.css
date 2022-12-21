@@ -653,4 +653,8 @@ color:white;
 .hover-sidebar:hover {
     border-radius: 0;
 }
+
+.months{
+    display: none;
+}
 }
